@@ -12,7 +12,7 @@ var Model = sequelize.define('Permission', {
   granted: Sequelize.BOOLEAN
 
 }, {
-  tableName: 'permissions',
+  tableName: 'bypass',
   timestamps: false
 })
 
