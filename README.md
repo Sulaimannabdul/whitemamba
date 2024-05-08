@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="https://github.com/loseys/Oblivion/"><img src="https://i.imgur.com/tGj5RyK.png" width=140 height=130 alt="BlackMamba"></a>
-  <a href="https://github.com/Sulaimannabdul/"><img src="https://aaah0mnbncqtinas.public.blob.vercel-storage.com/HX3IaSp-no-background-NfggAKddXdPFDs7P2o4wOnXnwtupSH.png" width=140 height=130 alt="BlackMamba"></a>
+  <a href="https://github.com/loseys/Oblivion/"><img src="https://i.imgur.com/tGj5RyK.png" width=130 height=120 alt="BlackMamba"></a>
+  <a href="https://github.com/Sulaimannabdul/"><img src="https://aaah0mnbncqtinas.public.blob.vercel-storage.com/HX3IaSp-no-background-NfggAKddXdPFDs7P2o4wOnXnwtupSH.png" width=130 height=120 alt="BlackMamba"></a>
 </h1>
 
 ### What's BlackMamba?
